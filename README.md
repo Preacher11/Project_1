@@ -294,3 +294,7 @@ LumaGenie — API для генерации 3D-моделей;
 OpenAI (через GptClient) — генерация описания предметов с помощью GPT;  
 Newtonsoft.Json — парсинг JSON-ответов;  
 Проектные менеджеры и модули — SettingsManager для управления API-ключами и токенами.  
+
+## LumaAI Genie C# Library https://github.com/breineng/LumaAIGenieSharp
+## Runtime OBJ Importer https://assetstore.unity.com/packages/tools/modeling/runtime-obj-importer-49547
+## UnityWebBrowser https://github.com/Voltstro-Studios/UnityWebBrowser
