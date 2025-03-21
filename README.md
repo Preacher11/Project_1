@@ -90,7 +90,7 @@ var statusResponse = await genieClient.GetStatusRequestAsync(creationResponse.Re
 var convertResponse = await genieClient.ConvertRequestAsync(new ConvertRequest(creationResponse.Response[0], ExportFormat.Obj));  
 var files = await genieClient.DownloadAndExtractFileAsync(convertResponse.Response.UploadedFiles[0].FileUrl);  
 
-#**✅ Вывод — что делает этот класс?**
+# **✅ Вывод — что делает этот класс?**
 
 GenieClient полностью автоматизирует цикл генерации 3D контента:  
 Отправка задания на генерацию модели  
